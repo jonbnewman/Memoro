@@ -1,4 +1,4 @@
-Memoro
+THIS PROJECT IS ABANDONED
 ===========
 
 Memoro is an experimental db abstraction...it is meant as a purely personal project, however if there is interest outside of my own uses I will continue development and respond to requests. I am implementing what I consider to be features not seen in other PHP based ORMs...so take a look and please provide feedback. I dislike creating documentation as much as the next developer, however I also see it as necessary evil, so to that end I will be providing it as much as possible...if for no other reason than for my own uses...because after all, we all tend to forget the specifics of implementation.
